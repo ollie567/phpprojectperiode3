@@ -31,9 +31,10 @@
         <h1>Basic ticket</h1>
         <p>Met deze tickets heb je toegang tot het festival terrein zonder speciale voordelen.</p>
         <h1>Premium ticket:</h1>
-        <p>Met deze tickets heb je voorrang bij bepaalde feesttenten</p>
+        <p>Met deze tickets heb je voorrang bij bepaalde feesttenten.</p>
         <h1>VIP ticket: </h1>
-        <p>Met deze tickets heb je korting op alle drankjes, mag je bij bepaalde concerten backstage als het niet vol is en mag je ook naar de vip club</p>
+        <p>Met deze tickets heb je korting op alle drankjes. Je mag ook bij bepaalde concerten backstage <br>
+            als het niet vol is en mag je ook naar de vip club.</p>
         <button type="submit">terug</button>
     </form>
     <div class="footer">
