@@ -1,0 +1,52 @@
+div
+{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+.header
+{
+    width: 100%;
+    height: 100px;
+
+}
+.logo
+{
+    height: 75px;
+    width: 100%;
+    background-color: blue;
+    float: left;
+}
+.menu
+{
+    height: 25px;
+    width: 1152px;
+    background-color: green;
+    float: left;
+}
+
+.hoofdmenu
+{
+    float: left;
+}
+
+.profiel
+{
+    float: right;
+}
+
+.body
+{
+    height: 500px;
+    width: 100%;
+}
+table, td, th
+{
+    border: solid 1px black;
+}
+.footer
+{
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+}
