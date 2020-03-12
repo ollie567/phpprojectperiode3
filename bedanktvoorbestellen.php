@@ -27,7 +27,9 @@
             </form>
         </div>
     </div>
+    <div class="body">
     bedankt voor bestellen
+    </div>
     <div class="footer">
 
     </div>

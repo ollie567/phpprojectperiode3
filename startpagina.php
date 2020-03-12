@@ -28,7 +28,13 @@
         </div>
     </div>
     <div class="body">
-
+        <p><a href="kooptickets.php">Koop tickets</a></p>
+        <p><a href="ticketinfo.php">Ticket informatiek</a></p>
+        <div class="imageslider">
+            <div class="slide">
+                <img src="images/achtergrond.jpg">
+            </div>
+        </div>
     </div>
     <div class="footer">
 

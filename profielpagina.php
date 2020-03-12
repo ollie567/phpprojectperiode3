@@ -27,14 +27,45 @@
             </form>
         </div>
     </div>
-    <form action="veranderwachtwoord.php" class="body">
-        <p>naam: gebruikersnaam</p>
-        <p>wachtwoord: ********</p>
-        <p>email: email</p>
-        <p>woonplaats: woonplaats</p>
-        <p>postcode: postcode</p>
-        <button type="submit">verander wachtwoord</button>
-    </form>
+    <div class="body">
+        <form action="veranderwachtwoord.php" >
+            <p>naam: gebruikersnaam</p>
+            <p>wachtwoord: ********</p>
+            <p>email: email</p>
+            <p>woonplaats: woonplaats</p>
+            <p>postcode: postcode</p>
+            <button type="submit">verander wachtwoord</button>
+        </form>
+        <div>
+            <table>
+                <tr>
+                    <th>Productnaam</th>
+                    <th>Productafbeelding</th>
+                    <th>Status</th>
+                </tr>
+                <tr>
+                    <td>voorbeeld product</td>
+                    <td>placeholder</td>
+                    <td>Bezorgd</td>
+                </tr>
+                <tr>
+                    <td>voorbeeld product</td>
+                    <td>placeholder</td>
+                    <td>Bezorgd</td>
+                </tr>
+                <tr>
+                    <td>voorbeeld product</td>
+                    <td>placeholder</td>
+                    <td>Bezorgd</td>
+                </tr>
+                <tr>
+                    <td>voorbeeld product</td>
+                    <td>placeholder</td>
+                    <td>Bezorgd</td>
+                </tr>
+            </table>
+        </div>
+    </div>
     <div class="footer">
 
     </div>

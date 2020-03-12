@@ -28,10 +28,10 @@
         </div>
     </div>
     <form method="post" action="winkelwagen.php" class="body">
-        <p><a href="ticketinfo.php">Basic ticket</a> Aantal(max 6):<input type="text" name="basic"></p>
-        <p><a href="ticketinfo.php">Premium ticket</a> Aantal(max 6):<input type="text" name="premium"></p>
-        <p><a href="ticketinfo.php">VIP ticket</a> Aantal(max 6):<input type="text" name="vip"></p>
-        <button type="submit">aantal</button>
+        <p><a href="ticketinfo.php">Basic ticket</a> €40 Aantal(max 6):<input type="text" name="basic" value="0"></p>
+        <p><a href="ticketinfo.php">Premium ticket</a> €60 Aantal(max 6):<input type="text" name="premium" value="0"></p>
+        <p><a href="ticketinfo.php">VIP ticket</a> €100 Aantal(max 6):<input type="text" name="vip" value="0"></p>
+        <button type="submit">winkelwagen</button>
     </form>
     <div class="footer">
 

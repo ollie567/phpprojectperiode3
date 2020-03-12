@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27d0d57f-3816-4061-907f-865b6b90313e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beheer/beheer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beheer/beheergebruikers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beheer/beheerklanten.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ticketinfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/ticketinfo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bedanktvoorbestellen.php" beforeDir="false" afterPath="$PROJECT_DIR$/bedanktvoorbestellen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kooptickets.php" beforeDir="false" afterPath="$PROJECT_DIR$/kooptickets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profielpagina.php" beforeDir="false" afterPath="$PROJECT_DIR$/profielpagina.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startpagina.php" beforeDir="false" afterPath="$PROJECT_DIR$/startpagina.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../periode2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -69,7 +75,12 @@
       <workItem from="1583236348725" duration="2717000" />
       <workItem from="1583274870151" duration="3956000" />
       <workItem from="1583307986894" duration="5099000" />
-      <workItem from="1583410416395" duration="577000" />
+      <workItem from="1583410416395" duration="1340000" />
+      <workItem from="1583710324054" duration="205000" />
+      <workItem from="1583744592874" duration="4083000" />
+      <workItem from="1583840260827" duration="1678000" />
+      <workItem from="1583919478472" duration="3642000" />
+      <workItem from="1584000390584" duration="4304000" />
     </task>
     <servers />
   </component>
@@ -81,7 +92,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

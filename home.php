@@ -12,10 +12,16 @@
     <div>
         <div class="header">
             <div class="logo"></div>
-            <div class="menu"></div>
+            <div class="menu">
+                <form action="inloggen.php" class="profiel">
+                    <button type="submit">inloggen</button>
+                </form>
+            </div>
         </div>
         <div class="body">
-            <p><a href="inloggen.php">Inloggen</a></p>
+            <div class="slide">
+                <img src="images/achtergrond.jpg">
+            </div>
         </div>
         <div class="footer">
 
