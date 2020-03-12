@@ -64,6 +64,9 @@
                     <td>Bezorgd</td>
                 </tr>
             </table>
+            <form action="home.php" method="post">
+            <button type="submit">Uitloggen</button>
+            </form>
         </div>
     </div>
     <div class="footer">

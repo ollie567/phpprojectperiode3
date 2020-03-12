@@ -15,11 +15,14 @@
         <div class="menu"></div>
     </div>
     <div class="body">
-    <form method="post" action="startpagina.php" >
-        <p>gebruikersnaam<input type="text" name=""></p>
-        <p>wachtwoord<input type="text" name=""></p>
-        <button type="submit">inloggen</button>
-    </form>
+        <form method="post" action="startpagina.php" >
+            <p>gebruikersnaam<input type="text" name=""></p>
+            <p>wachtwoord<input type="text" name=""></p>
+            <p>email<input type="text" name=""></p>
+            <p>woonplaats<input type="text" name=""></p>
+            <p>postcode<input type="text" name=""></p>
+            <button type="submit">registreren</button>
+        </form>
     </div>
     <div class="footer">
 

@@ -31,8 +31,8 @@
         <table>
             <tr>
                 <th>KlantID</th>
-                <th>Klant-voornaam</th>
-                <th>klant-achternaam</th>
+                <th>Klantvoornaam</th>
+                <th>klantachternaam</th>
                 <th>Klantwachtwoord</th>
                 <th>Klantemail</th>
                 <th>Klantwoonplaats</th>
@@ -66,6 +66,9 @@
                 <td>placeholder</td>
             </tr>
         </table>
+        <button type="button">Voeg toe</button>
+        <button type="button">Verwijder</button>
+        <button type="button">Update</button>
     </div>
     <div class="footer">
 

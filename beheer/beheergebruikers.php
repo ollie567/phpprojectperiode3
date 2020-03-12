@@ -70,6 +70,9 @@
                 <td>placeholder</td>
             </tr>
         </table>
+        <button type="button">Voeg toe</button>
+        <button type="button">Verwijder</button>
+        <button type="button">Update</button>
     </div>
     <div class="footer">
 

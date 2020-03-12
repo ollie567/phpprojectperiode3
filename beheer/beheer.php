@@ -30,7 +30,7 @@
     <div class="body">
         <table>
             <tr>
-                <th>ticketnr</th>
+                <th>Ticketnr</th>
                 <th>Ticketomschrijving</th>
                 <th>Ticketprijs</th>
                 <th>Ticketaantal</th>
@@ -54,6 +54,9 @@
                 <td>placeholder</td>
             </tr>
         </table>
+        <button type="button">Voeg toe</button>
+        <button type="button">Verwijder</button>
+        <button type="button">Update</button>
     </div>
     <div class="footer">
 
