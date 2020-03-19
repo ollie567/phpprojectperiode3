@@ -16,6 +16,9 @@
                 <form action="inloggen.php" class="profiel">
                     <button type="submit">inloggen</button>
                 </form>
+                <form action="registreren.php" class="profiel">
+                    <button type="submit">registreren</button>
+                </form>
             </div>
         </div>
         <div class="body">

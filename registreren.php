@@ -16,11 +16,11 @@
     </div>
     <div class="body">
         <form method="post" action="startpagina.php" >
-            <p>gebruikersnaam<input type="text" name=""></p>
-            <p>wachtwoord<input type="text" name=""></p>
-            <p>email<input type="text" name=""></p>
-            <p>woonplaats<input type="text" name=""></p>
-            <p>postcode<input type="text" name=""></p>
+            <p>gebruikersnaam<input type="text" name="gebruikersnaam"></p>
+            <p>wachtwoord<input type="text" name="wachtwoord"></p>
+            <p>email<input type="text" name="email"></p>
+            <p>woonplaats<input type="text" name="woonplaats"></p>
+            <p>postcode<input type="text" name="postcode"></p>
             <button type="submit">registreren</button>
         </form>
     </div>

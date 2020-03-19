@@ -16,7 +16,7 @@
     </div>
     <div class="body">
     <form method="post" action="startpagina.php" >
-        <p>gebruikersnaam<input type="text" name=""></p>
+        <p>gebruikersnaam<input type="text" name="gebruikersnaam"></p>
         <p>wachtwoord<input type="text" name=""></p>
         <button type="submit">inloggen</button>
     </form>
