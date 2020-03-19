@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27d0d57f-3816-4061-907f-865b6b90313e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inloggen.php" beforeDir="false" afterPath="$PROJECT_DIR$/inloggen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registreren.php" beforeDir="false" afterPath="$PROJECT_DIR$/registreren.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startpagina.php" beforeDir="false" afterPath="$PROJECT_DIR$/startpagina.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profielpagina.php" beforeDir="false" afterPath="$PROJECT_DIR$/profielpagina.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../periode2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -78,6 +75,7 @@
       <workItem from="1583919478472" duration="3642000" />
       <workItem from="1584000390584" duration="8103000" />
       <workItem from="1584524903075" duration="4445000" />
+      <workItem from="1584618160722" duration="3974000" />
     </task>
     <servers />
   </component>
