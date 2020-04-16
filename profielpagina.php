@@ -1,11 +1,4 @@
-<?php
-$db = mysqli_connect("localhost","root","","projectperiode3php");
 
-$select = "SELECT * FROM `bestelling`";
-$result = mysqli_query($db, $select);
-$bestelling = mysqli_fetch_assoc($result);
-echo $bestelling[""];
-?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -19,8 +12,8 @@ echo $bestelling[""];
 <body>
 <div>
     <div class="header">
-        <div class="logo"></div>
-        <div class="menu">
+`        <div class="logo"></div>
+`        <div class="menu">
             <form action="startpagina.php" class="hoofdmenu">
                 <button type="submit">startpagina</button>
             </form>
